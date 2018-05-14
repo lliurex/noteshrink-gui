@@ -1,0 +1,62 @@
+
+	GtkLabel {
+		font: 12px Roboto;
+	}
+	
+	#OPTION_LABEL {
+		font: 12px Roboto Light;
+
+	}
+
+	#OUTPUT_LABEL {
+
+		color: #3366cc;
+		font: 10px Roboto Bold;
+
+	}
+
+	#MSG_ERROR_LABEL {
+
+		color: #CC0000;
+		font: 11px Roboto Bold ; 
+	}
+
+	#MSG_LABEL {
+
+		color: #3366cc;
+		font: 11px Roboto Bold ;
+			
+	}	
+
+    #WINDOW{
+		
+		background-color: #f1f1f1;
+		
+	}
+
+	.deletebutton{
+		border:1px solid #fff;
+		background-color: #fff;
+	}
+
+	.deletebutton:hover{
+		border:1px solid #cdcdcd;
+		background-color: #fff;
+	}
+
+	.styledboxes{
+		background-color: #fff;
+		box-shadow: 0px 1px 3px #cdcdcd;
+		padding: 3px 10px;
+	}
+
+	.orderbutton{
+		border: 1px solid #fff;
+		background-color: #fff;
+		margin-left : 20px;
+	}
+	
+	.orderbutton:hover{
+		border: 1px solid #cdcdcd;
+		
+	}
