@@ -1,0 +1,15 @@
+Source: noteshrink-gui
+Section: python
+Priority: optional
+Maintainer: Raul Rodrigo Segura <raurodse@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://www.lliurex.net
+Vcs-Browser: https://github.com/lliurex/noteshrink-gui.git
+
+Package: noteshrink-gui
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},  
+Description: Graphica interface to noteshrink
+ Graphical interface to Convert scans of handwritten notes 
+ to beautiful, compact PDFs
